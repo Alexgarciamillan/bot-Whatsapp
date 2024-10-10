@@ -32,7 +32,7 @@
     "brainly-scraper": "^1.0.3",
     "cfonts": "^2.9.3",
     "cheerio": "^1.0.0-rc.9",
-    "cookie": "0.4.1",
+    "cookie": "0.7.0",
     "dotenv": "^8.2.0",
     "emoji-regex": "^9.2.0",
     "emoji-unicode": "^2.0.1",
